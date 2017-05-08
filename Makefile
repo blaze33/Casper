@@ -1,2 +1,2 @@
 zip:
-	zip -r openbloc.zip .
+	zip -r openbloc.zip . -x .git\*
