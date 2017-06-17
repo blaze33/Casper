@@ -1171,7 +1171,7 @@ body.page-template .post-title {
 
 /* Keep images centered, and allow images wider than the main
    text column to break out. */
-.post-content img {
+.post-content img, .centered-media {
     display: block;
     max-width: 126%;
     height: auto;
