@@ -19,9 +19,6 @@ package-lock.json
 *.iml
 projectFilesBackup
 
-<<<<<<< HEAD
-.DS_Store
-
-dist/
-
-openbloc.zip
+config.json
+changelog.md
+changelog.md.bk
